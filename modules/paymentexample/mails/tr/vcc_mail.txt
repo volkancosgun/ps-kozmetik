@@ -1,0 +1,7 @@
+
+Merhaba,
+
+Aşağıdaki ürünleri inceleyin.
+
+{message}
+

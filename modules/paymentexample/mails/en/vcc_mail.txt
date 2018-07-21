@@ -1,0 +1,7 @@
+Selam, 
+
+Yeni bir sipariş var...
+
+[{shop_url}] powered by
+HV(tm)
+
